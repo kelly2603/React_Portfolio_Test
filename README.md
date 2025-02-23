@@ -1,6 +1,6 @@
 # React Portfolio Test
 
-Trying out React to make a Portfolio website.
+A Portfolio website made to test out React for the first time. This was made by following a YouTube tutorial.
 
 
 ## Getting Started with Create React App
